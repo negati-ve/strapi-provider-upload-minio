@@ -1,5 +1,5 @@
 {
-  "name": "strapi-upload-minio-unofficial",
+  "name": "strapi-provider-upload-minio",
   "version": "1.0.1",
   "description": "MINIO provider for strapi upload",
   "main": "./lib",
