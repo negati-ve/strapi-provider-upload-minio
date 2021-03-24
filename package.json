@@ -1,7 +1,7 @@
 {
   "name": "strapi-provider-upload-minio",
   "version": "1.0.1",
-  "description": "MINIO provider for strapi upload",
+  "description": "A working Strapi provider for uploads to MinIO",
   "main": "./lib",
   "directories": {
     "lib": "lib"
@@ -9,17 +9,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bogdan Florea",
+  "author": "Negati-ve",
   "license": "MIT",
   "dependencies": {
     "minio": "^7.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/floreabogdan/strapi-upload-minio.git"
+    "url": "https://github.com/negati-ve/strapi-provider-upload-minio"
   },
   "bugs": {
-    "url": "https://github.com/floreabogdan/strapi-upload-minio/issues"
+    "url": "https://github.com/negati-ve/strapi-provider-upload-minio/issues"
   },
-  "homepage": "https://github.com/floreabogdan/strapi-upload-minio#readme"
+  "homepage": "https://github.com/negati-ve/strapi-provider-upload-minio/#readme"
 }
